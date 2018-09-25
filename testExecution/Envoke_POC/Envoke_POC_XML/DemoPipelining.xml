@@ -1,0 +1,53 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Envoke_POC_Project" verbose="1">
+	<!-- GLOBAL PARAMETERS -->
+	<!-- GLOBAL PARAMETERS -->
+	<!-- GLOBAL PARAMETERS -->
+	<parameter name="BusinessChannel" value="EnvokePOC"></parameter>
+	<parameter name="Project" value="Envoke_Project_POC"></parameter>
+	<!-- OSType has only 2 values "Windows" or "Linux" only -->
+	<parameter name="OSType" value="Windows"></parameter>
+	<parameter name="OR_Path" value="\\supportFiles\\EnvokePOC"></parameter>
+		
+	<!-- LISTERNERS -->
+	<!-- LISTERNERS -->
+	<!-- LISTERNERS -->
+	<listeners>
+		<listener class-name="com.nividous.listener.CustomHTMLReport" />
+		<listener class-name="com.nividous.listener.CustomLogging" />
+		<listener class-name="com.nividous.listener.StartSuiteDate" />
+	</listeners>
+
+	<!-- REGRESSION TEST -->
+	<!-- REGRESSION TEST -->
+	<!-- REGRESSION TEST -->
+
+	<!-- Loading Excel Sheet File -->
+	<test name="LoadExcel" preserve-order="true">
+		<parameter name="JsonFileName" value="client_secret_nividousautomation01"></parameter>	
+		<parameter name="filePath"
+			value="\\testExecution\\Envoke_POC\\Envoke_POC_DATA\\DemoPipelining.xlsx"></parameter>
+		<classes>
+			<class name="com.nividous.util.CommonUtilityForSuite"></class>
+		</classes>
+	</test>
+	<!-- Loading Excel Sheet File -->
+
+	<!-- Envoke_User_Login -->
+	<test name="Envoke_User_Login" preserve-order="true">
+		<parameter name="TestCase" value="Envoke_User_Login"></parameter>
+		<classes>
+			<class name="com.nividous.util.GenericTest"></class>
+		</classes>
+	</test>
+	<!-- Envoke_User_Login -->
+	
+	<!-- Upload_Contact_File -->
+	<test name="Upload_Contact_File" preserve-order="true">
+		<parameter name="TestCase" value="Upload_Contact_File"></parameter>
+		<classes>
+			<class name="com.nividous.util.GenericTest"></class>
+		</classes>
+	</test>
+	<!-- Upload_Contact_File -->
+</suite>

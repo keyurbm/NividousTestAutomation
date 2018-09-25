@@ -1,0 +1,16 @@
+#X----------------X----------------X----------------X----------------X---------------X
+#Store All XPath Locators In this block.
+
+	## Open New Account
+    Wealthworx.xpathOpenNewAccount = //button[text()='Open A New Account']
+    Wealthworx.xpathAccountType = .//button[@data-id='accountType']
+    Wealthworx.xpathAccTypeVal = .//button[@title='Individual']
+   
+#X----------------X----------------X----------------X----------------X---------------X
+#Store All ID Locators In this block.
+
+	 ## Open New Account
+	 Wealthworx.idAccTypeVal = accountType
+	 
+#X----------------X----------------X----------------X----------------X---------------X
+#Store All name Locators In this block.

@@ -1,0 +1,2995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="33" failed="1" total="36" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : LoadExcel]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:15:30 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:15:30]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : LoadExcel  started: @: 2018-01-09 12:15:30]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : LoadExcel  Pass: @: 2018-01-09 12:15:32]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:15:32]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : WealthWorx_Creator_Usergroup_Login]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:15:32 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:15:32]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : WealthWorx_Creator_Usergroup_Login  started: @: 2018-01-09 12:15:32]]>
+    </line>
+    <line>
+      <![CDATA[<table width=100% border=1 cellspacing=1 cellpadding=1 >]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<h4> <FONT COLOR=660000 FACE=Arial SIZE=2> <u># Test Name  = WealthWorx_Creator_Usergroup_Login   - Details Steps </u></h4>
+]]>
+    </line>
+    <line>
+      <![CDATA[<td width=5% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Step#</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Action</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Object</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Data</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=5% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Status</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=25% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Message</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=20% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>ScreenShot</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>3</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>OpenBrowser</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>BrowserName</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>4</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Navigate</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>BaseURL</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[WealthWorx Portal: About WealthWorx - Advisor is present as expected.]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>5</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>VerifyPresent</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>HomeTitle</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>6</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Click</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Sign In</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>7</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Input</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Screen Name</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>UserName</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>8</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Input</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Password</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Password</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>9</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Click</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Login</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[Aaron Smith is present as expected.]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>10</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>VerifyPresent</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>LoggedUserName</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[</table>
+]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : WealthWorx_Creator_Usergroup_Login  Pass: @: 2018-01-09 12:15:50]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:15:51]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Open_New_Account]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:15:51 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:15:51]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Open_New_Account  started: @: 2018-01-09 12:15:51]]>
+    </line>
+    <line>
+      <![CDATA[<table width=100% border=1 cellspacing=1 cellpadding=1 >]]>
+    </line>
+    <line>
+      <![CDATA[<tr>]]>
+    </line>
+    <line>
+      <![CDATA[<h4> <FONT COLOR=660000 FACE=Arial SIZE=2> <u># Test Name  = Open_New_Account   - Details Steps </u></h4>
+]]>
+    </line>
+    <line>
+      <![CDATA[<td width=5% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Step#</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Action</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Object</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Data</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=5% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Status</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=25% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Message</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[<td width=20% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>ScreenShot</b></td>]]>
+    </line>
+    <line>
+      <![CDATA[</tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>14</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>ClickBasedOnXpath</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Wealthworx.xpathOpenNewAccount</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>15</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Input</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>WMA Name</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>WMA Name</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>16</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PressEnter</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>WMA Name</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Open_New_Account  Fail: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Loan_Agent_Application_Undeployment]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:08 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Application_Undeployment  started: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Application_Undeployment  Skip: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Application_Undeployment  started: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Application_Undeployment  Skip: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Application_Undeployment  started: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Application_Undeployment  Skip: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Loan_Agent_Instance_Creation]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:08 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Instance_Creation  started: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Instance_Creation  Skip: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Instance_Creation  started: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Instance_Creation  Skip: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Instance_Creation  started: @: 2018-01-09 12:16:08]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Instance_Creation  Skip: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Loan_Agent_Claim_Task]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:09 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Claim_Task  started: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Claim_Task  Skip: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Claim_Task  started: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Claim_Task  Skip: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Claim_Task  started: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Agent_Claim_Task  Skip: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Loan_Application_Data_Entry]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:09 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Application_Data_Entry  started: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Application_Data_Entry  Skip: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Application_Data_Entry  started: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Application_Data_Entry  Skip: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Application_Data_Entry  started: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Application_Data_Entry  Skip: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Loan_App_Data_Entry_Employer_Info]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:09 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_App_Data_Entry_Employer_Info  started: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_App_Data_Entry_Employer_Info  Skip: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_App_Data_Entry_Employer_Info  started: @: 2018-01-09 12:16:09]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_App_Data_Entry_Employer_Info  Skip: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_App_Data_Entry_Employer_Info  started: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_App_Data_Entry_Employer_Info  Skip: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Advisor_Underwriter_Login]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:10 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Underwriter_Login  started: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Underwriter_Login  Skip: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Underwriter_Login  started: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Underwriter_Login  Skip: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Underwriter_Login  started: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Underwriter_Login  Skip: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Underwriter_Claim_Task]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:10 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Claim_Task  started: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Claim_Task  Skip: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Claim_Task  started: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Claim_Task  Skip: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Claim_Task  started: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Claim_Task  Skip: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Underwriter_Complete_Task]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:10 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Complete_Task  started: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Complete_Task  Skip: @: 2018-01-09 12:16:10]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Complete_Task  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Complete_Task  Skip: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Complete_Task  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Underwriter_Complete_Task  Skip: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Advisor_Loan_Officer_Login]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:11 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Loan_Officer_Login  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Loan_Officer_Login  Skip: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Loan_Officer_Login  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Loan_Officer_Login  Skip: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Loan_Officer_Login  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Advisor_Loan_Officer_Login  Skip: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Loan_Officer_Claim_Task]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:11 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Claim_Task  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Claim_Task  Skip: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Claim_Task  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Claim_Task  Skip: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Claim_Task  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Claim_Task  Skip: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Complete  @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[************************End of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[************************Start of Test******************************]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Test Result is in: E:\Automation\21Dec2017\NividousTestAutomation\test-output\Sample_Example_SuiteSample_Example_Suite]]>
+    </line>
+    <line>
+      <![CDATA[Test name : Loan_Officer_Complete_Task]]>
+    </line>
+    <line>
+      <![CDATA[Test STart Time : Tue Jan 09 12:16:11 IST 2018]]>
+    </line>
+    <line>
+      <![CDATA[Test Current Time 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Complete_Task  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Complete_Task  Skip: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Complete_Task  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Complete_Task  Skip: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Complete_Task  started: @: 2018-01-09 12:16:11]]>
+    </line>
+    <line>
+      <![CDATA[Testcase : Loan_Officer_Complete_Task  Skip: @: 2018-01-09 12:16:12]]>
+    </line>
+  </reporter-output>
+  <suite name="Sample_Example_Suite" duration-ms="41284" started-at="2018-01-09T06:45:30Z" finished-at="2018-01-09T06:46:12Z">
+    <groups>
+    </groups>
+    <test name="LoadExcel" duration-ms="1411" started-at="2018-01-09T06:45:30Z" finished-at="2018-01-09T06:45:32Z">
+      <class name="com.nividous.util.CommonUtilityForSuite">
+        <test-method status="PASS" signature="loadSpreadSheet(java.lang.String, java.lang.String)[pri:0, instance:com.nividous.util.CommonUtilityForSuite@60285225]" name="loadSpreadSheet" duration-ms="1366" started-at="2018-01-09T12:15:30Z" finished-at="2018-01-09T12:15:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\testExecution\\Advisor\\Advisor_DATA\\Advisor.xlsx]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[client_secret_nividousautomation01]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : LoadExcel  Pass: @: 2018-01-09 12:15:32]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadSpreadSheet -->
+      </class> <!-- com.nividous.util.CommonUtilityForSuite -->
+    </test> <!-- LoadExcel -->
+    <test name="WealthWorx_Creator_Usergroup_Login" duration-ms="19420" started-at="2018-01-09T06:45:32Z" finished-at="2018-01-09T06:45:51Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@4e718207]" name="fetchXMLParameter" is-config="true" duration-ms="1" started-at="2018-01-09T12:15:32Z" finished-at="2018-01-09T12:15:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@4e718207]" name="getClassName" is-config="true" duration-ms="1" started-at="2018-01-09T12:15:32Z" finished-at="2018-01-09T12:15:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WealthWorx_Creator_Usergroup_Login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="PASS" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@4e718207]" name="executeTest" duration-ms="18500" started-at="2018-01-09T12:15:32Z" data-provider="prepareData" finished-at="2018-01-09T12:15:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{HomeTitle=WealthWorx Portal: About WealthWorx - Advisor, BrowserName=chrome, RunMode=Y, Password=admin, LoggedUserName=Aaron Smith, BaseURL=http://192.168.1.105:8080/web/advisor, UserName=aaron.smith}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<table width=100% border=1 cellspacing=1 cellpadding=1 >]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<h4> <FONT COLOR=660000 FACE=Arial SIZE=2> <u># Test Name  = WealthWorx_Creator_Usergroup_Login   - Details Steps </u></h4>
+]]>
+            </line>
+            <line>
+              <![CDATA[<td width=5% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Step#</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Action</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Object</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Data</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=5% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Status</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=25% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Message</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=20% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>ScreenShot</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>3</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>OpenBrowser</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>BrowserName</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>4</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Navigate</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>BaseURL</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[WealthWorx Portal: About WealthWorx - Advisor is present as expected.]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>5</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>VerifyPresent</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>HomeTitle</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>6</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Click</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Sign In</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>7</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Input</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Screen Name</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>UserName</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>8</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Input</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Password</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Password</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>9</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Click</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Login</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[Aaron Smith is present as expected.]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>10</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>VerifyPresent</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>LoggedUserName</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[</table>
+]]>
+            </line>
+            <line>
+              <![CDATA[Testcase : WealthWorx_Creator_Usergroup_Login  Pass: @: 2018-01-09 12:15:50]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@4e718207]" name="teardownsetup1" is-config="true" duration-ms="880" started-at="2018-01-09T12:15:50Z" finished-at="2018-01-09T12:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- WealthWorx_Creator_Usergroup_Login -->
+    <test name="Open_New_Account" duration-ms="16735" started-at="2018-01-09T06:45:51Z" finished-at="2018-01-09T06:46:08Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@289d1c02]" name="fetchXMLParameter" is-config="true" duration-ms="4" started-at="2018-01-09T12:15:51Z" finished-at="2018-01-09T12:15:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@289d1c02]" name="getClassName" is-config="true" duration-ms="0" started-at="2018-01-09T12:15:51Z" finished-at="2018-01-09T12:15:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Open_New_Account]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="FAIL" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@289d1c02]" name="executeTest" duration-ms="16612" started-at="2018-01-09T12:15:51Z" data-provider="prepareData" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{RunMode=Y, WMA Name=Abel Taylor, InvestService=Investment Management, AccountType=Individual}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at com.nividous.common.NividousTest.reportGenerator(NividousTest.java:1010)
+	at com.nividous.common.NividousTest.executeKeywordsFromLoadedWorkBook(NividousTest.java:216)
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:107)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<table width=100% border=1 cellspacing=1 cellpadding=1 >]]>
+            </line>
+            <line>
+              <![CDATA[<tr>]]>
+            </line>
+            <line>
+              <![CDATA[<h4> <FONT COLOR=660000 FACE=Arial SIZE=2> <u># Test Name  = Open_New_Account   - Details Steps </u></h4>
+]]>
+            </line>
+            <line>
+              <![CDATA[<td width=5% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Step#</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Action</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Object</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=15% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Data</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=5% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Status</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=25% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Message</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[<td width=20% align=center  bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>ScreenShot</b></td>]]>
+            </line>
+            <line>
+              <![CDATA[</tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>14</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>ClickBasedOnXpath</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Wealthworx.xpathOpenNewAccount</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>15</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>Input</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>WMA Name</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>WMA Name</td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[<tr><td width=5% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>16</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PressEnter</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>WMA Name</td><td width=15% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5></td><td width=5% align= left bgcolor=#BCE954 ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5>PASS</td><td width=25% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1></td><td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=1.5> </td></tr>]]>
+            </line>
+            <line>
+              <![CDATA[Testcase : Open_New_Account  Fail: @: 2018-01-09 12:16:08]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@289d1c02]" name="teardownsetup1" is-config="true" duration-ms="109" started-at="2018-01-09T12:16:08Z" finished-at="2018-01-09T12:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Open_New_Account -->
+    <test name="Loan_Agent_Application_Undeployment" duration-ms="350" started-at="2018-01-09T06:46:08Z" finished-at="2018-01-09T06:46:08Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@a74868d]" name="fetchXMLParameter" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:08Z" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@a74868d]" name="getClassName" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:08Z" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Loan_Agent_Application_Undeployment]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@a74868d]" name="executeTest" duration-ms="79" started-at="2018-01-09T12:16:08Z" data-provider="prepareData" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Agent_Application_Undeployment  Skip: @: 2018-01-09 12:16:08]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@a74868d]" name="executeTest" duration-ms="90" started-at="2018-01-09T12:16:08Z" data-provider="prepareData" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Agent_Application_Undeployment  Skip: @: 2018-01-09 12:16:08]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@a74868d]" name="executeTest" duration-ms="75" started-at="2018-01-09T12:16:08Z" data-provider="prepareData" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Agent_Application_Undeployment  Skip: @: 2018-01-09 12:16:08]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@a74868d]" name="teardownsetup1" is-config="true" duration-ms="74" started-at="2018-01-09T12:16:08Z" finished-at="2018-01-09T12:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Loan_Agent_Application_Undeployment -->
+    <test name="Loan_Agent_Instance_Creation" duration-ms="271" started-at="2018-01-09T06:46:08Z" finished-at="2018-01-09T06:46:09Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@782663d3]" name="getClassName" is-config="true" duration-ms="1" started-at="2018-01-09T12:16:08Z" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Loan_Agent_Instance_Creation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@782663d3]" name="fetchXMLParameter" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:08Z" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@782663d3]" name="executeTest" duration-ms="65" started-at="2018-01-09T12:16:08Z" data-provider="prepareData" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Agent_Instance_Creation  Skip: @: 2018-01-09 12:16:08]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@782663d3]" name="executeTest" duration-ms="63" started-at="2018-01-09T12:16:08Z" data-provider="prepareData" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Agent_Instance_Creation  Skip: @: 2018-01-09 12:16:08]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@782663d3]" name="executeTest" duration-ms="58" started-at="2018-01-09T12:16:08Z" data-provider="prepareData" finished-at="2018-01-09T12:16:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Agent_Instance_Creation  Skip: @: 2018-01-09 12:16:09]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@782663d3]" name="teardownsetup1" is-config="true" duration-ms="53" started-at="2018-01-09T12:16:09Z" finished-at="2018-01-09T12:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Loan_Agent_Instance_Creation -->
+    <test name="Loan_Agent_Claim_Task" duration-ms="325" started-at="2018-01-09T06:46:09Z" finished-at="2018-01-09T06:46:09Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@2e3fc542]" name="getClassName" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:09Z" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Loan_Agent_Claim_Task]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@2e3fc542]" name="executeTest" duration-ms="77" started-at="2018-01-09T12:16:09Z" data-provider="prepareData" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Agent_Claim_Task  Skip: @: 2018-01-09 12:16:09]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@2e3fc542]" name="fetchXMLParameter" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:09Z" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@2e3fc542]" name="executeTest" duration-ms="71" started-at="2018-01-09T12:16:09Z" data-provider="prepareData" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Agent_Claim_Task  Skip: @: 2018-01-09 12:16:09]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@2e3fc542]" name="executeTest" duration-ms="78" started-at="2018-01-09T12:16:09Z" data-provider="prepareData" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Agent_Claim_Task  Skip: @: 2018-01-09 12:16:09]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@2e3fc542]" name="teardownsetup1" is-config="true" duration-ms="89" started-at="2018-01-09T12:16:09Z" finished-at="2018-01-09T12:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Loan_Agent_Claim_Task -->
+    <test name="Loan_Application_Data_Entry" duration-ms="336" started-at="2018-01-09T06:46:09Z" finished-at="2018-01-09T06:46:09Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@43a0cee9]" name="executeTest" duration-ms="90" started-at="2018-01-09T12:16:09Z" data-provider="prepareData" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Application_Data_Entry  Skip: @: 2018-01-09 12:16:09]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@43a0cee9]" name="fetchXMLParameter" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:09Z" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@43a0cee9]" name="getClassName" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:09Z" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Loan_Application_Data_Entry]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@43a0cee9]" name="executeTest" duration-ms="68" started-at="2018-01-09T12:16:09Z" data-provider="prepareData" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Application_Data_Entry  Skip: @: 2018-01-09 12:16:09]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@43a0cee9]" name="executeTest" duration-ms="85" started-at="2018-01-09T12:16:09Z" data-provider="prepareData" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Application_Data_Entry  Skip: @: 2018-01-09 12:16:09]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@43a0cee9]" name="teardownsetup1" is-config="true" duration-ms="68" started-at="2018-01-09T12:16:09Z" finished-at="2018-01-09T12:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Loan_Application_Data_Entry -->
+    <test name="Loan_App_Data_Entry_Employer_Info" duration-ms="533" started-at="2018-01-09T06:46:09Z" finished-at="2018-01-09T06:46:10Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@67b467e9]" name="fetchXMLParameter" is-config="true" duration-ms="3" started-at="2018-01-09T12:16:09Z" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@67b467e9]" name="getClassName" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:09Z" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Loan_App_Data_Entry_Employer_Info]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@67b467e9]" name="executeTest" duration-ms="121" started-at="2018-01-09T12:16:09Z" data-provider="prepareData" finished-at="2018-01-09T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_App_Data_Entry_Employer_Info  Skip: @: 2018-01-09 12:16:09]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@67b467e9]" name="executeTest" duration-ms="105" started-at="2018-01-09T12:16:09Z" data-provider="prepareData" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_App_Data_Entry_Employer_Info  Skip: @: 2018-01-09 12:16:10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@67b467e9]" name="executeTest" duration-ms="196" started-at="2018-01-09T12:16:10Z" data-provider="prepareData" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_App_Data_Entry_Employer_Info  Skip: @: 2018-01-09 12:16:10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@67b467e9]" name="teardownsetup1" is-config="true" duration-ms="64" started-at="2018-01-09T12:16:10Z" finished-at="2018-01-09T12:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Loan_App_Data_Entry_Employer_Info -->
+    <test name="Advisor_Underwriter_Login" duration-ms="286" started-at="2018-01-09T06:46:10Z" finished-at="2018-01-09T06:46:10Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@646007f4]" name="fetchXMLParameter" is-config="true" duration-ms="1" started-at="2018-01-09T12:16:10Z" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@646007f4]" name="getClassName" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:10Z" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Advisor_Underwriter_Login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@646007f4]" name="executeTest" duration-ms="68" started-at="2018-01-09T12:16:10Z" data-provider="prepareData" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Advisor_Underwriter_Login  Skip: @: 2018-01-09 12:16:10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@646007f4]" name="executeTest" duration-ms="63" started-at="2018-01-09T12:16:10Z" data-provider="prepareData" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Advisor_Underwriter_Login  Skip: @: 2018-01-09 12:16:10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@646007f4]" name="executeTest" duration-ms="63" started-at="2018-01-09T12:16:10Z" data-provider="prepareData" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Advisor_Underwriter_Login  Skip: @: 2018-01-09 12:16:10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@646007f4]" name="teardownsetup1" is-config="true" duration-ms="60" started-at="2018-01-09T12:16:10Z" finished-at="2018-01-09T12:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Advisor_Underwriter_Login -->
+    <test name="Underwriter_Claim_Task" duration-ms="289" started-at="2018-01-09T06:46:10Z" finished-at="2018-01-09T06:46:10Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@548ad73b]" name="fetchXMLParameter" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:10Z" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@548ad73b]" name="getClassName" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:10Z" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Underwriter_Claim_Task]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@548ad73b]" name="executeTest" duration-ms="80" started-at="2018-01-09T12:16:10Z" data-provider="prepareData" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Underwriter_Claim_Task  Skip: @: 2018-01-09 12:16:10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@548ad73b]" name="executeTest" duration-ms="63" started-at="2018-01-09T12:16:10Z" data-provider="prepareData" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Underwriter_Claim_Task  Skip: @: 2018-01-09 12:16:10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@548ad73b]" name="executeTest" duration-ms="63" started-at="2018-01-09T12:16:10Z" data-provider="prepareData" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Underwriter_Claim_Task  Skip: @: 2018-01-09 12:16:10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@548ad73b]" name="teardownsetup1" is-config="true" duration-ms="62" started-at="2018-01-09T12:16:10Z" finished-at="2018-01-09T12:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Underwriter_Claim_Task -->
+    <test name="Underwriter_Complete_Task" duration-ms="309" started-at="2018-01-09T06:46:10Z" finished-at="2018-01-09T06:46:11Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@16f7c8c1]" name="fetchXMLParameter" is-config="true" duration-ms="1" started-at="2018-01-09T12:16:10Z" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@16f7c8c1]" name="getClassName" is-config="true" duration-ms="1" started-at="2018-01-09T12:16:10Z" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Underwriter_Complete_Task]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@16f7c8c1]" name="executeTest" duration-ms="63" started-at="2018-01-09T12:16:10Z" data-provider="prepareData" finished-at="2018-01-09T12:16:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Underwriter_Complete_Task  Skip: @: 2018-01-09 12:16:10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@16f7c8c1]" name="executeTest" duration-ms="66" started-at="2018-01-09T12:16:10Z" data-provider="prepareData" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Underwriter_Complete_Task  Skip: @: 2018-01-09 12:16:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@16f7c8c1]" name="executeTest" duration-ms="59" started-at="2018-01-09T12:16:11Z" data-provider="prepareData" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Underwriter_Complete_Task  Skip: @: 2018-01-09 12:16:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@16f7c8c1]" name="teardownsetup1" is-config="true" duration-ms="63" started-at="2018-01-09T12:16:11Z" finished-at="2018-01-09T12:16:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Underwriter_Complete_Task -->
+    <test name="Advisor_Loan_Officer_Login" duration-ms="279" started-at="2018-01-09T06:46:11Z" finished-at="2018-01-09T06:46:11Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@5579bb86]" name="fetchXMLParameter" is-config="true" duration-ms="1" started-at="2018-01-09T12:16:11Z" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@5579bb86]" name="getClassName" is-config="true" duration-ms="1" started-at="2018-01-09T12:16:11Z" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Advisor_Loan_Officer_Login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@5579bb86]" name="executeTest" duration-ms="78" started-at="2018-01-09T12:16:11Z" data-provider="prepareData" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Advisor_Loan_Officer_Login  Skip: @: 2018-01-09 12:16:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@5579bb86]" name="executeTest" duration-ms="64" started-at="2018-01-09T12:16:11Z" data-provider="prepareData" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Advisor_Loan_Officer_Login  Skip: @: 2018-01-09 12:16:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@5579bb86]" name="executeTest" duration-ms="60" started-at="2018-01-09T12:16:11Z" data-provider="prepareData" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Advisor_Loan_Officer_Login  Skip: @: 2018-01-09 12:16:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@5579bb86]" name="teardownsetup1" is-config="true" duration-ms="52" started-at="2018-01-09T12:16:11Z" finished-at="2018-01-09T12:16:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Advisor_Loan_Officer_Login -->
+    <test name="Loan_Officer_Claim_Task" duration-ms="278" started-at="2018-01-09T06:46:11Z" finished-at="2018-01-09T06:46:11Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@17211155]" name="fetchXMLParameter" is-config="true" duration-ms="1" started-at="2018-01-09T12:16:11Z" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@17211155]" name="getClassName" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:11Z" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Loan_Officer_Claim_Task]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@17211155]" name="executeTest" duration-ms="57" started-at="2018-01-09T12:16:11Z" data-provider="prepareData" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Officer_Claim_Task  Skip: @: 2018-01-09 12:16:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@17211155]" name="executeTest" duration-ms="60" started-at="2018-01-09T12:16:11Z" data-provider="prepareData" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Officer_Claim_Task  Skip: @: 2018-01-09 12:16:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@17211155]" name="executeTest" duration-ms="82" started-at="2018-01-09T12:16:11Z" data-provider="prepareData" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Officer_Claim_Task  Skip: @: 2018-01-09 12:16:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@17211155]" name="teardownsetup1" is-config="true" duration-ms="60" started-at="2018-01-09T12:16:11Z" finished-at="2018-01-09T12:16:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Loan_Officer_Claim_Task -->
+    <test name="Loan_Officer_Complete_Task" duration-ms="247" started-at="2018-01-09T06:46:11Z" finished-at="2018-01-09T06:46:12Z">
+      <class name="com.nividous.util.GenericTest">
+        <test-method status="PASS" signature="beforeSuiteConfig(org.testng.ITestContext, java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@5123a213]" name="beforeSuiteConfig" is-config="true" duration-ms="578" started-at="2018-01-09T12:15:30Z" finished-at="2018-01-09T12:15:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@57c88764]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteConfig -->
+        <test-method status="PASS" signature="fetchXMLParameter(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@5123a213]" name="fetchXMLParameter" is-config="true" duration-ms="1" started-at="2018-01-09T12:16:11Z" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[\\supportFiles\\Advisor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchXMLParameter -->
+        <test-method status="PASS" signature="getClassName(java.lang.String)[pri:0, instance:com.nividous.util.GenericTest@5123a213]" name="getClassName" is-config="true" duration-ms="0" started-at="2018-01-09T12:16:11Z" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Loan_Officer_Complete_Task]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@5123a213]" name="executeTest" duration-ms="59" started-at="2018-01-09T12:16:11Z" data-provider="prepareData" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Officer_Complete_Task  Skip: @: 2018-01-09 12:16:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@5123a213]" name="executeTest" duration-ms="58" started-at="2018-01-09T12:16:11Z" data-provider="prepareData" finished-at="2018-01-09T12:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Officer_Complete_Task  Skip: @: 2018-01-09 12:16:11]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="SKIP" signature="executeTest(java.util.Hashtable)[pri:1, instance:com.nividous.util.GenericTest@5123a213]" name="executeTest" duration-ms="54" started-at="2018-01-09T12:16:11Z" data-provider="prepareData" finished-at="2018-01-09T12:16:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test as Runmode is NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test as Runmode is NO
+	at com.nividous.util.GenericTest.executeTest(GenericTest.java:86)
+	at sun.reflect.GeneratedMethodAccessor31.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase : Loan_Officer_Complete_Task  Skip: @: 2018-01-09 12:16:12]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executeTest -->
+        <test-method status="PASS" signature="teardownsetup1()[pri:0, instance:com.nividous.util.GenericTest@5123a213]" name="teardownsetup1" is-config="true" duration-ms="59" started-at="2018-01-09T12:16:12Z" finished-at="2018-01-09T12:16:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownsetup1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nividous.util.GenericTest@5123a213]" name="tearDown" is-config="true" duration-ms="7" started-at="2018-01-09T12:16:12Z" finished-at="2018-01-09T12:16:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nividous.util.GenericTest -->
+    </test> <!-- Loan_Officer_Complete_Task -->
+  </suite> <!-- Sample_Example_Suite -->
+</testng-results>

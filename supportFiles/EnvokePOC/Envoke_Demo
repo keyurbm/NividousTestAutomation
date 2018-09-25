@@ -1,0 +1,13 @@
+
+***************************** Home Page ****************************
+Envoke.Home.Logo = .//div[@class='logo']/a/img
+Envoke.Login.Btn = .//a[text()='Login']
+
+***************************** Login Page ***************************
+Login.Envoke.Logo = .//img[@class='page_logo']
+Login.UserName.Input = .//input[@id='user']
+Login.Password.Input = .//input[@id='pass']
+Login.Submit.Btn = .//div[@class='nvkButton']/input[@name='Submit']
+
+***************************** User Dashboard ***********************
+Logged.User.Name = .//li[@id='user']/a

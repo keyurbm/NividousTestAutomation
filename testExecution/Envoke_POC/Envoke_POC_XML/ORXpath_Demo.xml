@@ -1,0 +1,103 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ORXpath_Demo_Project" verbose="1">
+	<!-- GLOBAL PARAMETERS -->
+	<!-- GLOBAL PARAMETERS -->
+	<!-- GLOBAL PARAMETERS -->
+	<parameter name="BusinessChannel" value="ORXpath_Demo"></parameter>
+	<parameter name="Project" value="ORXpath_Project_Demo"></parameter>
+	<!-- OSType has only 2 values "Windows" or "Linux" only -->
+	<parameter name="OSType" value="Windows"></parameter>
+	<parameter name="OR_Path" value="\\supportFiles\\ORDemo_Xpath"></parameter>
+	<parameter name="SeleniumDriver_ChromePath"
+		value="\\seleniumDrivers\\ChromeDriver\\chromedriver.exe"></parameter>
+	<parameter name="SeleniumDriver_InternetExplorerPath"
+		value="\\seleniumDrivers\\InternetExplorerDriver\\IEDriverServer.exe"></parameter>
+	
+	<!-- LISTERNERS -->
+	<!-- LISTERNERS -->
+	<!-- LISTERNERS -->
+	<listeners>
+		<listener class-name="com.nividous.listener.CustomHTMLReport" />
+		<listener class-name="com.nividous.listener.CustomLogging" />
+		<listener class-name="com.nividous.listener.StartSuiteDate" />
+	</listeners>
+
+	<!-- REGRESSION TEST -->
+	<!-- REGRESSION TEST -->
+	<!-- REGRESSION TEST -->
+
+	<!-- Loading Excel Sheet File -->
+	<test name="LoadExcel" preserve-order="true">
+		<parameter name="JsonFileName" value="client_secret_nividousautomation01"></parameter>	
+		<parameter name="filePath"
+			value="\\testExecution\\Envoke_POC\\Envoke_POC_DATA\\ORXpath_Demo.xlsx"></parameter>
+		<classes>
+			<class name="com.nividous.util.CommonUtilityForSuite"></class>
+		</classes>
+	</test>
+	<!-- Loading Excel Sheet File -->
+
+	<!-- Yahoo_User_Login -->
+	<test name="Yahoo_User_Login" preserve-order="true">
+		<parameter name="TestCase" value="Yahoo_User_Login"></parameter>
+		<classes>
+			<class name="com.nividous.util.GenericTest"></class>
+		</classes>
+	</test>
+	<!-- Yahoo_User_Login -->
+	
+	<!-- Navigate_To_Mail_Inbox -->
+<!-- 	<test name="Navigate_To_Mail_Inbox" preserve-order="true"> -->
+<!-- 		<parameter name="TestCase" value="Navigate_To_Mail_Inbox"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.nividous.util.GenericTest"></class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+	<!-- Navigate_To_Mail_Inbox -->
+	
+	<!-- Add_New_Subscription_And_Interest -->
+<!-- 	<test name="Add_New_Subscription_And_Interest" preserve-order="true"> -->
+<!-- 		<parameter name="TestCase" value= "Add_New_Subscription_And_Interest"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.nividous.util.GenericTest"></class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+	<!-- Add_New_Subscription_And_Interest -->
+	
+	<!-- Navigate_to_Import_Contact_List_And_Map_All_Fields -->
+<!-- 	<test name="Navigate_to_Import_Contact_List_And_Map_All_Fields" preserve-order="true"> -->
+<!-- 		<parameter name="TestCase" value= "Navigate_to_Import_Contact_List_And_Map_All_Fields"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.nividous.util.GenericTest"></class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+	<!-- Navigate_to_Import_Contact_List_And_Map_All_Fields -->
+	
+	<!-- Create_Contact_List_with_Source_Desc_And_Import_It -->
+<!-- 	<test name="Create_Contact_List_with_Source_Desc_And_Import_It" preserve-order="true"> -->
+<!-- 		<parameter name="TestCase" value= "Create_Contact_List_with_Source_Desc_And_Import_It"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.nividous.util.GenericTest"></class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+	<!-- Create_Contact_List_with_Source_Desc_And_Import_It -->
+	
+	<!-- Verify_Imported_Contact_Details -->
+<!-- 	<test name="Verify_Imported_Contact_Details" preserve-order="true"> -->
+<!-- 		<parameter name="TestCase" value= "Verify_Imported_Contact_Details"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.nividous.util.GenericTest"></class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+	<!-- Verify_Imported_Contact_Details -->
+	
+	<!-- Envoke_User_Logout -->
+<!-- 	<test name="Envoke_User_Logout" preserve-order="true"> -->
+<!-- 		<parameter name="TestCase" value= "Envoke_User_Logout"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.nividous.util.GenericTest"></class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+	<!-- Envoke_User_Logout -->
+			
+</suite>

@@ -1,0 +1,12 @@
+
+
+
+
+		################ Yahoo Login ################
+
+	Yahoo.Login.username 			= //*[@id='login-username']
+	Yahoo.Login.password 			= .//*[@id='login-passwd']
+	Yahoo.Login.Signinbutton 		= .//*[@name='verifyPassword']
+	Yahoo.Login.Next				 = 	//*[@id='login-signin']
+	password.field.loc				=//input[@type='password']
+	

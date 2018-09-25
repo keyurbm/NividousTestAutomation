@@ -1,0 +1,39 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sample_Example_Suite" verbose="1">
+	<!-- GLOBAL PARAMETERS -->
+	<parameter name="BusinessChannel" value="SampleExample"></parameter>
+	<parameter name="Project" value="Yahoo_Demo"></parameter>
+	<!-- OSType has only 2 values "Windows" or "Linux" only -->
+	<parameter name="OSType" value="Windows"></parameter>
+	<parameter name="OR_Path" value="\\supportFiles\\Sample_Yahoo_Demo"></parameter>
+	<parameter name="JsonFileName" value="client_secret_nividousautomation01"></parameter>
+	
+	<!-- LISTERNERS -->
+	<listeners>
+		<listener class-name="com.nividous.listener.CustomHTMLReport" />
+		<listener class-name="com.nividous.listener.CustomLogging" />
+		<listener class-name="com.nividous.listener.StartSuiteDate" />
+	</listeners>
+
+	<!-- REGERESSION TEST CASES -->
+	
+	<!-- Loading Excel Sheet File -->
+	<test name="LoadExcel" preserve-order="true">	
+		<parameter name="filePath"
+			value="\\testExecution\\SampleExample_BasedOn_Xpath\\YahooDemo_DATA\\Yahoo_Demo_usingXpath.xlsx"></parameter>
+		<classes>
+			<class name="com.nividous.util.CommonUtilityForSuite"></class>
+		</classes>
+	</test>
+	<!-- Loading Excel Sheet File -->
+
+	<!-- Yahoo_User_Login -->
+	<test name="Yahoo_User_Login" preserve-order="true">
+		<parameter name="TestCase" value="Yahoo_User_Login"></parameter>
+		<classes>
+			<class name="com.nividous.util.GenericTest"></class>
+		</classes>
+	</test>
+	<!-- Yahoo_User_Login -->
+	
+</suite>

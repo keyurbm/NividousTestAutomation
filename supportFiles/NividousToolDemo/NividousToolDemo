@@ -1,0 +1,18 @@
+
+***************************** Create New Account Page ****************************
+StarButton = .//button[contains(text(),'*')]
+ProcessPortal.OuterFrame = .//*[@id='2025.f2ce5588-cee2-301c-ac68-86199faefeba']
+ProcessPortal.InnerFrame = .//*[@id='div_1_2_1_2']/div/div[1]/iframe
+ProcessPortal.InnerPageFrame = .//*[@id='div_1_2_1_2']/div/div[2]/iframe
+ProcessPortal.NestedInnerFrame = //*[@id='2025.3afdb22d-e50e-337f-992b-c2bfd85c9617']
+Mandate.Signature = .//*[@id='div_4_1_10_1_3_1_2']/div/canvas
+Form.Submit = .//*[@id='TaskRow_0']/div/div[2]/div/div[1]/div[1]/span/a/span[2]
+********************** Gmail *******************************
+Inbox = .//*[@aria-label='Mail']
+EmailID=.//input[@aria-label='Email or phone']
+Message= .//*[@role='main']//table//tbody//tr[2]//td[4]
+Next = .//*[text()='Next']
+Password = .//input[@aria-label='Enter your password']
+MessageData = //*[@class='ii gt adP adO']
+********************** Bank Portal *******************************
+BPMFileUpload = //*[text()='BPM File Uploader']

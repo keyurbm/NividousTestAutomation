@@ -1,0 +1,171 @@
+company,email,fname,lname,phone,cell,title,interest123,subscription123
+Armanetti Wine Shoppe,demo_addr1@envoke-demo.com,Dante,Adams,(604) 601-8000,,Project Manager,no,no
+Fine Wines & Spirits Inc,demo_addr2@envoke-demo.com,Kasey,Alston,(604) 601-8000,,Vice President - Retail,no,no
+Full Circle Management Ltd.,demo_addr3@envoke-demo.com,Jennifer,Andrews,(604) 601-8000,,Purchasing Agent,no,no
+Through the Grape Vine Distributors,demo_addr4@envoke-demo.com,Marylyn,Anoza,(770) 555-4790,,Account Manager,yes,no
+St Helena Wine Ctr,demo_addr5@envoke-demo.com,Margarita,Atkinson,(604) 601-8000,,Project Manager,yes,no
+Liberty Wine Merchants,demo_addr6@envoke-demo.com,Alejandro,Baird,(604) 601-8000,,Area Director,yes,no
+Petrocks Liquor,demo_addr7@envoke-demo.com,Jo,Barrera,(604) 601-8000,,Vice President - Sales,yes,no
+Lynnhaven Seafood Marina,demo_addr8@envoke-demo.com,Nickolas,Barrett,(604) 601-8000,,Accounting Manager,yes,no
+Andy S Market,demo_addr9@envoke-demo.com,Emma,Beck,(604) 601-8000,,VP Operations,yes,no
+Albert's Steak House,demo_addr10@envoke-demo.com,Albert,Bennington,(604) 601-8000,,Owner,yes,no
+Capones River House,demo_addr11@envoke-demo.com,Noah,Bentley,(604) 601-8000,,Category Manager Seasonal,yes,no
+Kenwood Vineyards,demo_addr12@envoke-demo.com,Lynnette,Bolton,(604) 601-8000,,National Sales Director,no,yes
+Liquor Center,demo_addr13@envoke-demo.com,Seymour,Boyer,(604) 601-8000,,Head Taster,no,yes
+Arnie S Fine Wine Liquor & Beer,demo_addr14@envoke-demo.com,Patsy,Bradshaw,(604) 601-8000,,General Manager,no,yes
+Post Liquors,demo_addr15@envoke-demo.com,Andre,Brady,(604) 601-8000,,Warehouse Manager,no,yes
+Main Street Wine Spirits,demo_addr16@envoke-demo.com,Roman,Burke,(604) 601-8000,,Senior Buyer,no,yes
+Liberty Wine Merchants,demo_addr17@envoke-demo.com,Erma,Bush,(604) 601-8000,,Accounting Manager,no,yes
+Liquor Plus,demo_addr18@envoke-demo.com,Mervin,Callahan,(604) 601-8000,,Area Director,no,yes
+Teller Wines,demo_addr19@envoke-demo.com,Barry,Cardenas,(604) 601-8000,,Customer Services Manager,no,yes
+Denver Wine Connection,demo_addr20@envoke-demo.com,Marcos,Carpenter,(604) 601-8000,,Controller,no,yes
+Michaels Beer & Wine,demo_addr21@envoke-demo.com,Corinne,Casey,(604) 601-8000,,Category Manager Seasonal,no,yes
+Arrow Wine & Spirits,demo_addr22@envoke-demo.com,Jefferey,Cash,(604) 601-8000,,Executive Vice President,yes,yes
+Los Olivos Cafe Wine Merchant,demo_addr23@envoke-demo.com,Mandy,Chen,(604) 601-8000,,National Sales Director,yes,yes
+Amelia Liquors South,demo_addr24@envoke-demo.com,Melanie,Chen,(604) 601-8000,,Senior Purchasing Agent,yes,yes
+Int L Wine Gallery,demo_addr25@envoke-demo.com,Betty,Cochran,(604) 601-8000,,Store Manager,yes,yes
+Mcknealls Wine & Spirits,demo_addr26@envoke-demo.com,Christina,Conner,(604) 601-8000,,Operations Manager,yes,yes
+Grapes & Grains,demo_addr27@envoke-demo.com,Susanne,Contreras,(604) 601-8000,,Vice President - Retail,yes,yes
+Nehrings Sendiks On Oakland,demo_addr28@envoke-demo.com,Salvatore,Cooley,(604) 601-8000,,Head Taster,yes,yes
+Harvest Inn,demo_addr29@envoke-demo.com,Raquel,Cote,(604) 601-8000,,President,1,1
+Green S,demo_addr30@envoke-demo.com,Thurman,Cox,(604) 601-8000,,VP Operations,1,1
+West End Wine Shop,demo_addr31@envoke-demo.com,Elton,Craig,(604) 601-8000,,Senior Buyer,1,1
+Wine Exchange,demo_addr32@envoke-demo.com,Nolan,Curry,(604) 601-8000,,Division Head,1,1
+Beacon Wine Spirits,demo_addr33@envoke-demo.com,Renaldo,Davenport,(604) 601-8000,,Vice President - Sales,1,1
+St Helena Wine Merchant,demo_addr34@envoke-demo.com,Miriam,Dawson,(604) 601-8000,,National Sales Director,1,1
+Gulf Point Liquors,demo_addr35@envoke-demo.com,Gaston,Delacruz,(604) 601-8000,,President,1,1
+Aggassi Cold Beer & Wine Store,demo_addr36@envoke-demo.com,Jane,Doe,(604) 601-8000,,Administrator,1,1
+ABC Wine Shop Inc.,demo_addr37@envoke-demo.com,James,Dolton,(604) 601-8000,,General Manager,1,1
+Vintage Wine Merchants,demo_addr38@envoke-demo.com,Gretchen,Dorsey,(604) 601-8000,,President,1,1
+Connoiseur,demo_addr39@envoke-demo.com,Bryce,Duran,(604) 601-8000,,President,1,1
+Westchester Wine Warehouse,demo_addr40@envoke-demo.com,Eugenia,England,(604) 601-8000,,Area Director,1,1
+Colonial Spirits,demo_addr41@envoke-demo.com,Maritza,Ewing,(604) 601-8000,,Wine Buyer,1,1
+Farmer & Co.,demo_addr42@envoke-demo.com,Gary,Farmer,(604) 601-8000,,Accountant,1,1
+Heritage Wine & Liquor,demo_addr43@envoke-demo.com,Penny,Finch,(604) 601-8000,,Sales Manager,0,0
+Neptune City Liquors,demo_addr44@envoke-demo.com,Zachariah,Finley,(604) 601-8000,,Vice President - Retail,0,0
+The Wine Specialist,demo_addr45@envoke-demo.com,Lucia,Fitzpatrick,(604) 601-8000,,Operations Manager,0,0
+Island Spice & Wine,demo_addr46@envoke-demo.com,Haley,Fletcher,(604) 601-8000,,Senior Buyer,0,0
+Heidelberg,demo_addr47@envoke-demo.com,Keisha,Fletcher,(604) 601-8000,,Wine Buyer,0,0
+Garnet Liquors,demo_addr48@envoke-demo.com,Maryanne,Foreman,(604) 601-8000,,Operations Manager,0,0
+Riverside Wine Merchants,demo_addr49@envoke-demo.com,Genevieve,Gaines,(604) 601-8000,,Owner,0,0
+Grapes & Grains,demo_addr50@envoke-demo.com,Len,Gates,(604) 601-8000,,President,0,0
+For All Occasions,demo_addr51@envoke-demo.com,Elinor,Glover,(604) 601-8000,,General Manager,0,0
+Eagle Vineyards,demo_addr52@envoke-demo.com,Wes,Gomez,(604) 601-8000,,Business Development Manager,0,0
+Brovelli Fine Italian Imports,demo_addr53@envoke-demo.com,Ramon,Griffith,(604) 601-8000,,Senior Purchasing Agent,0,0
+Hillers Market,demo_addr54@envoke-demo.com,Norbert,Gross,(604) 601-8000,,President,0,1
+Billabong and Co. Wine Distributors,demo_addr55@envoke-demo.com,Annie,Hall,(604) 601-8000,,Marketing Manager,0,1
+Kahu Kura Applications,demo_addr56@envoke-demo.com,Don,Harry,(604) 601-8000,,Systems Analyst,0,1
+Grape Expectations,demo_addr57@envoke-demo.com,Keri,Holcomb,(604) 601-8000,,Store Manager,0,1
+Ingersoll Wines & Spirits,demo_addr58@envoke-demo.com,Chrystal,Horton,(604) 601-8000,,Buyer,0,1
+Mulier S Market Inc,demo_addr59@envoke-demo.com,Brianna,Howe,(604) 601-8000,,National Sales Director,0,1
+Sam & Augies Mercantile,demo_addr60@envoke-demo.com,Allen,Huber,(604) 601-8000,,National Sales Director,0,1
+Artesa Winery,demo_addr61@envoke-demo.com,Eloy,Huffman,(604) 601-8000,,Customer Services Manager,0,1
+Wine Exchange,demo_addr62@envoke-demo.com,Joy,Huffman,(604) 601-8000,,Executive Vice President,0,1
+Martin Brothers Wines,demo_addr63@envoke-demo.com,Pierre,Hutchinson,(604) 601-8000,,Customer Services Manager,0,1
+Eastport Liquors,demo_addr64@envoke-demo.com,Williams,Hutchinson,(604) 601-8000,,Controller,0,1
+Atlas Food Inc,demo_addr65@envoke-demo.com,Derek,Inouye,(604) 601-8000,,Account Manager,0,1
+Bacchus Wine Market & Tasting Room,demo_addr66@envoke-demo.com,Leslie,Jarvis,(604) 601-8000,,Controller,0,1
+ABC Wine Shop Inc.,demo_addr67@envoke-demo.com,Ed,Johnson,(604) 601-8000,(604) 601 8002,Buyer,1,0
+Loews Ventana Canyon Res,demo_addr68@envoke-demo.com,George,Kane,(604) 601-8000,,Head Taster,1,0
+Mckinley Liquors,demo_addr69@envoke-demo.com,Fannie,Keith,(604) 601-8000,,Sales Manager,1,0
+Parkwood Wines & Spirits,demo_addr70@envoke-demo.com,Amos,Kennedy,(604) 601-8000,,Senior Buyer,1,0
+Assenti S Pasta,demo_addr71@envoke-demo.com,Cynthia,Kent,(604) 601-8000,,Category Manager Seasonal,1,0
+Solano Cellars,demo_addr72@envoke-demo.com,Sonja,King,(604) 601-8000,,VP Merchandising,1,0
+Joe Saglimbeni Fine Wine,demo_addr73@envoke-demo.com,Edgardo,Kirby,(604) 601-8000,,Senior Purchasing Agent,1,0
+Line Creek Liquor,demo_addr74@envoke-demo.com,Iris,Kirkland,(604) 601-8000,,VP Operations,1,0
+All The Best Spirits,demo_addr75@envoke-demo.com,Winifred,Kline,(604) 601-8000,,Marketing Manager,1,0
+The Art Of Wine,demo_addr76@envoke-demo.com,Herbert,Koch,(604) 601-8000,,Wine Buyer,1,0
+Minks Beer & Wine,demo_addr77@envoke-demo.com,Beverly,Lambert,(604) 601-8000,,Vice President - Sales,set,set
+Training Company,demo_addr78@envoke-demo.com,Name,Last,(123) 456-7890,,,set,set
+Poplar Wine & Spirits,demo_addr79@envoke-demo.com,Melinda,Lott,(604) 601-8000,,Executive Vice President,set,set
+La Cave A Vin,demo_addr80@envoke-demo.com,Jaime,Lynch,(604) 601-8000,,Project Manager,set,set
+Happy Times Restaurant Supplies,demo_addr81@envoke-demo.com,Amir,Mansfield,(604) 601-8000,,Purchasing Agent,set,set
+Cabrini Liquors,demo_addr82@envoke-demo.com,Darnell,Marks,(604) 601-8000,,Vice President - Retail,set,set
+Atlas Food Inc,demo_addr83@envoke-demo.com,Daniela,Martinez,(604) 601-8000,,Customer Service Rep,set,set
+Kiewitich,demo_addr84@envoke-demo.com,Kim,McBride,(604) 601-8000,,Support Engineer,set,set
+The Inn At Little Washington,demo_addr85@envoke-demo.com,Mauricio,Mccall,(604) 601-8000,,VP Merchandising,set,set
+Oxford Wine & Spirits,demo_addr86@envoke-demo.com,Jewell,Mccarthy,(604) 601-8000,,Account Executive,set,set
+Majestic Liquor Store,demo_addr87@envoke-demo.com,Thaddeus,Mcconnell,(604) 601-8000,,Vice President - Sales,TRUE,TRUE
+Galluccio Estate Vineyard,demo_addr88@envoke-demo.com,Rolando,Mccormick,(604) 601-8000,,Marketing Manager,TRUE,TRUE
+Astor Wines & Spirits,demo_addr89@envoke-demo.com,Della,Mccoy,(604) 601-8000,,Buyer,TRUE,TRUE
+Argonaut Wine & Liquor,demo_addr90@envoke-demo.com,Terrance,Mcdonald,(604) 601-8000,,Senior Purchasing Agent,TRUE,TRUE
+Wine On The 9,demo_addr91@envoke-demo.com,Alfreda,Mcdowell,(604) 601-8000,,VP Merchandising,TRUE,TRUE
+Carrollwood Liquors And Fine Wine ,demo_addr92@envoke-demo.com,Christy,Mcgowan,(604) 601-8000,,Vice President - Sales,TRUE,TRUE
+Palmer Vineyards,demo_addr93@envoke-demo.com,Vicky,Mckee,(604) 601-8000,,Purchasing Manager,TRUE,TRUE
+La Boutique Du Vin,demo_addr94@envoke-demo.com,Jolene,Mckenzie,(604) 601-8000,,Vice President - Sales,TRUE,TRUE
+Johnson Bros Liquor Co,demo_addr95@envoke-demo.com,Ines,Mclean,(604) 601-8000,,Customer Services Manager,TRUE,TRUE
+Chelsea Wine Cellar,demo_addr96@envoke-demo.com,Carson,Mcmahon,(604) 601-8000,,President,TRUE,TRUE
+Jackie S Fine Wines & Spirits,demo_addr97@envoke-demo.com,Tamra,Mercer,(604) 601-8000,,Division Head,TRUE,TRUE
+Hillers Market,demo_addr98@envoke-demo.com,Jeramy,Merrill,(604) 601-8000,,Vice President - Retail,FALSE,FALSE
+Town & Country Fine Wines,demo_addr99@envoke-demo.com,Megan,Meyer,(604) 601-8000,,Senior Buyer,FALSE,FALSE
+Millesimi,demo_addr100@envoke-demo.com,Deanna,Miles,(604) 601-8000,,Senior Purchasing Agent,FALSE,FALSE
+Ferrari Carano Vineyards,demo_addr101@envoke-demo.com,Herbert,Montgomery,(604) 601-8000,,VP Operations,FALSE,FALSE
+Kroger,demo_addr102@envoke-demo.com,Brandy,Moran,(604) 601-8000,,General Manager,FALSE,FALSE
+Liquorama Wine Cellars,demo_addr103@envoke-demo.com,Fletcher,Mosley,(604) 601-8000,,VP Operations,FALSE,FALSE
+Firewater & Wine,demo_addr104@envoke-demo.com,Fermin,Murphy,(604) 601-8000,,General Manager,FALSE,FALSE
+Knightsbridge Wine Shopp,demo_addr105@envoke-demo.com,Efrain,Navarro,(604) 601-8000,,VP Operations,FALSE,FALSE
+Meridian Vineyards,demo_addr106@envoke-demo.com,Lillian,Norman,(604) 601-8000,,Controller,yes,yes
+Fairview Wines & Spirits,demo_addr107@envoke-demo.com,Alyssa,Obrien,(604) 601-8000,,Vice President - Retail,yes,yes
+Liquor Mart & Wine Shoppe,demo_addr108@envoke-demo.com,Bertha,Oneil,(604) 601-8000,,Division Head,yes,yes
+Atlas Food Inc,demo_addr109@envoke-demo.com,Derek,Parker,(604) 601-8000,,Account Manager,yes,yes
+Guys Package Store,demo_addr110@envoke-demo.com,Milagros,Parker,(604) 601-8000,,Senior Purchasing Agent,TRUE,FALSE
+Hyde Park Gourmet Food & Wine ,demo_addr111@envoke-demo.com,Glenna,Parks,(604) 601-8000,,General Manager,TRUE,FALSE
+Gold River Dist,demo_addr112@envoke-demo.com,Stewart,Parrish,(604) 601-8000,,Business Development Manager,TRUE,FALSE
+La Vinotheque,demo_addr113@envoke-demo.com,Moshe,Pate,(604) 601-8000,,Division Head,TRUE,FALSE
+Chateau Elan Winery,demo_addr114@envoke-demo.com,Elizabeth,Perkins,(604) 601-8000,,Wine Buyer,TRUE,FALSE
+M & R Wines & Liquors,demo_addr115@envoke-demo.com,Nannie,Phillips,(604) 601-8000,,Account Executive,TRUE,FALSE
+Merchants Package Store,demo_addr116@envoke-demo.com,Morton,Pittman,(604) 601-8000,,Division Head,TRUE,FALSE
+Carlyle Wines & Spirits,demo_addr117@envoke-demo.com,Cruz,Pitts,(604) 601-8000,,Head Taster,TRUE,FALSE
+Kenaston Wine Mkt,demo_addr118@envoke-demo.com,Rudy,Pitts,(604) 601-8000,,Business Development Manager,TRUE,FALSE
+Bayville Package Store,demo_addr119@envoke-demo.com,Darin,Powell,(604) 601-8000,,Owner,FALSE,TRUE
+Billabong and Co. Wine Distributors,demo_addr120@envoke-demo.com,Judith,Price,(604) 601-8000,,Controller,FALSE,TRUE
+Little Rock Dist,demo_addr121@envoke-demo.com,Paul,Ramirez,(604) 601-8000,,Purchasing Manager,FALSE,TRUE
+Rum Runner Wine & Spirit,demo_addr122@envoke-demo.com,Janette,Rhodes,(604) 601-8000,,General Manager,FALSE,TRUE
+Capitol Vineyards,demo_addr123@envoke-demo.com,Elisabeth,Richard,(604) 601-8000,,VP Operations,FALSE,TRUE
+Grape Expectations,demo_addr124@envoke-demo.com,Ty,Rios,(604) 601-8000,,General Manager,FALSE,TRUE
+Foster Wine,demo_addr125@envoke-demo.com,Steven,Risebrough,(604) 601-8000,,Manager,FALSE,TRUE
+Imperial Liquors,demo_addr126@envoke-demo.com,Phoebe,Rivera,(604) 601-8000,,Warehouse Manager,,
+Fremont Fresh Market & Wine,demo_addr127@envoke-demo.com,Woodrow,Rodriquez,(604) 601-8000,,Export Manager,,
+Shamrock Warehouse Liquors,demo_addr128@envoke-demo.com,Bonnie,Rollins,(604) 601-8000,,Division Head,,
+Ronecto Supermarket,demo_addr129@envoke-demo.com,Marietta,Rosario,(604) 601-8000,,Executive Vice President,,
+Cloverleaf Fine Wine Spt,demo_addr130@envoke-demo.com,Elvira,Rowland,(604) 601-8000,,Project Manager,,
+D Vine Wine Bar & Shop,demo_addr131@envoke-demo.com,Cheryl,Roy,(604) 601-8000,,VP Merchandising,,
+Ohio Valley Wine Co,demo_addr132@envoke-demo.com,Colin,Russo,(604) 601-8000,,Purchasing Manager,,
+Samson Consulting,demo_addr133@envoke-demo.com,Paul,Samson,(604) 601-8000,,Account Manager,,
+Prime Wines,demo_addr134@envoke-demo.com,Harley,Santana,(604) 601-8000,,General Manager,abc123,abc123
+Minottis Wine And Liquor,demo_addr135@envoke-demo.com,Carol,Santiago,(604) 601-8000,,General Manager,abc123,abc123
+Peter Andrew Llc,demo_addr136@envoke-demo.com,Chandra,Schmidt,(604) 601-8000,,Vice President - Retail,abc123,abc123
+San Francisco Wine Trading Co,demo_addr137@envoke-demo.com,Denise,Scott,(604) 601-8000,,Division Head,abc123,abc123
+Boston Wine Cellar,demo_addr138@envoke-demo.com,Bettye,Sexton,(604) 601-8000,,Store Manager,abc123,abc123
+Horizon Beverage Company,demo_addr139@envoke-demo.com,Eve,Shannon,(604) 601-8000,,Store Manager,abc123,abc123
+Habersham Beverage Warehouse,demo_addr140@envoke-demo.com,Angelo,Sharp,(604) 601-8000,,Business Development Manager,abc123,abc123
+Oconee Cellar,demo_addr141@envoke-demo.com,Clay,Sharpe,(604) 601-8000,,VP Merchandising,abc123,abc123
+Fontier Liquor & Beverag,demo_addr142@envoke-demo.com,Jamal,Sharpe,(604) 601-8000,,VP Operations,abc123,abc123
+Billabong and Co. Wine Distributors,demo_addr143@envoke-demo.com,Larry,Skalmerud,(604) 601-8000,,Owner,abc123,abc123
+Bertelli S Fine Wines,demo_addr144@envoke-demo.com,Fanny,Slater,(604) 601-8000,,Vice President - Retail,unset,unset
+Beringer Vineyards,demo_addr145@envoke-demo.com,Deana,Sloan,(604) 601-8000,,Sales Manager,unset,unset
+Florham Park Liquors,demo_addr146@envoke-demo.com,Hunter,Small,(604) 601-8000,,Warehouse Manager,unset,unset
+Nehrings Sendiks On Oakland,demo_addr147@envoke-demo.com,Mary,Smart,(604) 601-8000,,General Manager,unset,unset
+Whiskey Jack,demo_addr148@envoke-demo.com,Hugh,Smith,(604) 601-8000,,Owner,unset,unset
+Green S,demo_addr149@envoke-demo.com,Katharine,Snyder,(604) 601-8000,,VP Merchandising,unset,unset
+Raymond Vineyards,demo_addr150@envoke-demo.com,Estela,Stark,(604) 601-8000,,Store Manager,unset,unset
+The Winetree Liquors,demo_addr151@envoke-demo.com,Bryant,Stevenson,(604) 601-8000,,Executive Vice President,unset,unset
+Marquis Wine Cellars,demo_addr152@envoke-demo.com,Odell,Strickland,(604) 601-8000,,National Sales Director,unset,unset
+Jt S Fine Wine & Spirits,demo_addr153@envoke-demo.com,Leopoldo,Stuart,(604) 601-8000,,Warehouse Manager,unset,unset
+Kroger,demo_addr154@envoke-demo.com,Phillip,Sutton,(604) 601-8000,,Marketing Manager,unset,unset
+Plump Jack Wines,demo_addr155@envoke-demo.com,Lori,Talley,(604) 601-8000,,Head Taster,unset,set
+Harr S Surf-N-Turf,demo_addr156@envoke-demo.com,Errol,Tate,(604) 601-8000,,General Manager,unset,set
+Viscount Liquor Corp,demo_addr157@envoke-demo.com,Daron,Terrell,(604) 601-8000,,General Manager,unset,set
+Atlas Food Inc,demo_addr159@envoke-demo.com,Michelle,Torrance,(604) 601-8000,(222) 444-4444,General Manager,unset,set
+ABC Wine Shop Inc.,demo_addr160@envoke-demo.com,Martha,Torres,(604) 601-8000,(604) 601 8002,Day Manager,unset,set
+ABC Wine Shop Inc.,demo_addr161@envoke-demo.com,Marcel,Ursprung,(604) 601-8000,(604) 601 8002,,unset,set
+West Wood Wine & Liquor,demo_addr162@envoke-demo.com,Thaddeus,Vang,(604) 601-8000,,Branch Manager,unset,set
+Esquin Wine Merchants,demo_addr163@envoke-demo.com,Susanne,Vinson,(604) 601-8000,,Account Executive,yes,yes
+Liberta S Spirit Shoppe,demo_addr164@envoke-demo.com,Ursula,Wagner,(604) 601-8000,,Branch Manager,set,unset
+George Town Package Stre,demo_addr165@envoke-demo.com,Ana,Weiss,(604) 601-8000,,General Manager,set,unset
+Ansley Wine Merchants,demo_addr166@envoke-demo.com,Kendall,Wiley,(604) 601-8000,,General Manager,set,unset
+Eastport Liquors,demo_addr167@envoke-demo.com,Elmer,Wilson,(604) 601-8000,,Customer Services Manager,set,unset
+Erickson Fine Wines,demo_addr168@envoke-demo.com,Kip,Wise,(604) 601-8000,,Area Director,set,unset
+Healthabit Natural Foods,demo_addr169@envoke-demo.com,Isabella,Wong,(604) 601-8000,,Account Executive,set,unset
+Martel Ag St. Gallen,demo_addr170@envoke-demo.com,Tamara,Workman,(604) 601-8000,,General Manager,set,unset
+The Wine Sellers,demo_addr171@envoke-demo.com,Johnson,Young,(604) 601-8000,,Controller,set,unset
